@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBoot2Example {
+public class SpringBoot2ExampleTest {
 
     @Autowired
     private ReactiveAccountRepository accountRepository;
